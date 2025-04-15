@@ -11,8 +11,7 @@
   <artifactId>mcs8device</artifactId>
   <version>1.0</version>
   <packaging>aar</packaging>
-
-<build>
+  <build>
     <plugins>
       <plugin>
         <groupId>com.simpligility.maven.plugins</groupId>
@@ -30,7 +29,6 @@
       </plugin>
     </plugins>
   </build>
-
   <dependencies>
     <dependency>
       <groupId>androidx.appcompat</groupId>
